@@ -27,6 +27,15 @@
         "run_time": "every 1 hour",
         "minimum_reward": 10000
       }
+    },
+    {
+      "name": "bitsong",
+      "address": "bitsongvaloper1dmmupr5qqy07sksct3au8tx9vuh224vg53fl6x",
+      "restake": {
+        "address": "bitsong1vlzuqyyw8cnuxzhghf6824m96nh5vdlhv9smz0",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000
+      }
     }
   ]
 }
